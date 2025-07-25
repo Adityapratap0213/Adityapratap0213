@@ -79,8 +79,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaGitHubUsername&show_icons=true&theme=react&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaGitHubUsername&layout=compact&theme=react&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adityapratap0213&show_icons=true&theme=react&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityapratap0213&layout=compact&theme=react&hide_border=true" />
 </p>
 
 ---
